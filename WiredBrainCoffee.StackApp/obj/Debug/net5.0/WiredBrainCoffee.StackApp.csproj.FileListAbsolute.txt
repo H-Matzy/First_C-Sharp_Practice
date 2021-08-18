@@ -1,0 +1,16 @@
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.exe
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.deps.json
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.runtimeconfig.json
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.runtimeconfig.dev.json
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\net5.0\ref\WiredBrainCoffee.StackApp.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\bin\Debug\net5.0\WiredBrainCoffee.StackApp.pdb
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.csproj.AssemblyReference.cache
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.AssemblyInfoInputs.cache
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.AssemblyInfo.cs
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.csproj.CoreCompileInputs.cache
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\ref\WiredBrainCoffee.StackApp.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.pdb
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.StackApp\obj\Debug\net5.0\WiredBrainCoffee.StackApp.genruntimeconfig.cache

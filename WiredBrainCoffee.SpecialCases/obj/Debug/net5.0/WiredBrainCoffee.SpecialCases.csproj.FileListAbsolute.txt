@@ -1,0 +1,16 @@
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.exe
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.deps.json
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.runtimeconfig.json
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.runtimeconfig.dev.json
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\ref\WiredBrainCoffee.SpecialCases.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\bin\Debug\net5.0\WiredBrainCoffee.SpecialCases.pdb
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.csproj.AssemblyReference.cache
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.AssemblyInfoInputs.cache
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.AssemblyInfo.cs
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.csproj.CoreCompileInputs.cache
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\ref\WiredBrainCoffee.SpecialCases.dll
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.pdb
+C:\Users\HMatz\source\repos\WiredBrainCoffee.StackApp\WiredBrainCoffee.SpecialCases\obj\Debug\net5.0\WiredBrainCoffee.SpecialCases.genruntimeconfig.cache
